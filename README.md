@@ -58,5 +58,4 @@
 
 
 
-<img width="294" alt="variable desired velocity" src="https://user-images.githubusercontent.com/92177410/160253895-8adc3123-6ccb-4e43-8e81-1e7eaadef8ca.png">
 
