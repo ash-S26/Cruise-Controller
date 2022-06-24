@@ -32,19 +32,13 @@
  Desired velocity -> 60 km\hr
 
 **only proportional gain Kp:**
- only Kp value does not make car's velocity reach its desired velocity
- 
- 
- <img width="295" alt="ki=0   kd=0" src="https://user-images.githubusercontent.com/92177410/160253422-814f4004-a0b0-4431-939f-95e1f2a951a3.png">
- 
+ Only Kp value does not make car's velocity reach its desired velocity
  
  
 **proportional and integral gain:**
  
  Integral gain add up errors making velocity reach desired velocity but overshoots abit.
  
-<img width="311" alt="kd=0" src="https://user-images.githubusercontent.com/92177410/160253519-963acd29-1cfa-4e9c-90d4-d1da9b0b4990.png">
-  
   
   **proportional, integral and derivate gain:**
   
@@ -52,7 +46,7 @@
   
  
  
-<img width="282" alt="Screenshot 2022-03-21 230711" src="https://user-images.githubusercontent.com/92177410/160253626-da6ce142-e8f5-472d-9a19-c6f5bf153e5c.png">
+![image](https://user-images.githubusercontent.com/86155751/175606986-6a43a838-3751-419a-a8ce-10054d24407f.png)
 
 
 
