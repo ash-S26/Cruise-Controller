@@ -16,9 +16,9 @@
 ### Physics:
 
 - v = u + a(t2 - t1)
-- v and u are final and initial velocity respectively.
-- a is acceleration 
-- (t2 - t1) is time step which we have taken as 1 second.
+-- v and u are final and initial velocity respectively.
+-- a is acceleration 
+-- (t2 - t1) is time step which we have taken as 1 second.
  
  
 - F = ma
