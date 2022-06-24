@@ -32,18 +32,19 @@
  Desired velocity -> 60 km\hr
 
 
-**only proportional gain Kp:**
- Only Kp value does not make car's velocity reach its desired velocity
+**Only Proportional gain Kp:**
+
+ - Only Kp value does not make car's velocity reach its desired velocity
  
  
-**proportional and integral gain:**
+**Proportional and Integral gain:**
  
- Integral gain add up errors making velocity reach desired velocity but overshoots abit.
+ - Integral gain add up errors making velocity reach desired velocity but overshoots abit.
  
   
-  **proportional, integral and derivate gain:**
+  **Proportional, Integral and Derivate gain:**
   
-  Derivate gain reduces the overshoot and for some value velocity smoothy converges to desired velocity 
+ - Derivate gain reduces the overshoot and for some value velocity smoothy converges to desired velocity 
   
  
  
