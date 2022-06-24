@@ -47,8 +47,8 @@
  - Derivate gain reduces the overshoot and for some value velocity smoothy converges to desired velocity 
   
  
- 
-![image](https://user-images.githubusercontent.com/86155751/175606986-6a43a838-3751-419a-a8ce-10054d24407f.png)
+![image](https://user-images.githubusercontent.com/86155751/175607482-3191fd2e-f0f4-4807-a8f0-64d20a563e26.png)
+
 
 
 
